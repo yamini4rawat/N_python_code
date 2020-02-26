@@ -1,0 +1,33 @@
+Mark Down Notation and Tricks
+
+Math Blocks 
+
+Always starts with double dollar sign and close with double dollar signs.
+
+$$   \beta $$
+
+
+
+1 . Subscript , Super script
+
+Super-script
+
+to write a superscript - use the ^ sign
+
+$$ X^1$$
+
+Subscript
+
+to write a subscript use the underscore and the curly bracket sign
+
+$$ X_{1}$$
+
+Write an alpha beta gamma and Gamma
+
+$$ \beta , \alpha , \gamma , \Gamma $$
+
+Space 
+
+~ 
+
+$$ A ~ B$$
