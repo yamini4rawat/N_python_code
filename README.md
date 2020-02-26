@@ -2,7 +2,7 @@
 ## This repository contains code which solves small task which we do everyday with our python codes.
 
 1. Uploading a file onto google colab
-
+2. Tips and tricks for writing a mark down file
 
 
 
