@@ -31,3 +31,13 @@ Space
 ~ 
 
 $$ A ~ B$$
+
+
+Include emojis in your markdown
+A lot manny emojis can be included in your markdown. We just need to put the expression in between the colon's
+like a smiling emoji can be included like :smiley:.
+For other emojis refer the link https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion
+
+
+Credits :
+To this git hub repository: https://github.com/ikatyang/emoji-cheat-sheet#smileys--emotion
